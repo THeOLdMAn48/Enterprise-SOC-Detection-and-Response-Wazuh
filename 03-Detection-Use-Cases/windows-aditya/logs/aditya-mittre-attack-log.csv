@@ -1,0 +1,295 @@
+timestamp,agent.name,rule.mitre.id,rule.mitre.tactic,rule.description,rule.level,rule.id
+"Jan 9, 2026 @ 16:04:55.372",aditys-agent,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 9, 2026 @ 15:46:16.900",aditys-agent,"[""T1529""]","[""Impact""]",System shutdown initiated.,3,67018
+"Jan 9, 2026 @ 12:46:24.382",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:24.379",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:24.251",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:24.220",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:21.903",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:46:21.887",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:21.887",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:21.880",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:19.719",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:19.585",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:19.585",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:19.573",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:17.394",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:46:17.386",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:17.386",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:17.386",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:15.069",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:15.068",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:15.035",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:15.025",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:12.792",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:46:12.780",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:12.772",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:12.762",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:10.539",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:10.523",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:10.523",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:10.509",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:08.338",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:46:08.308",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:08.272",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:08.261",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:06.039",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:06.025",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:06.018",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:06.010",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:03.809",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:46:03.775",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:03.775",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:03.763",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:01.527",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:01.520",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:01.520",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:46:01.502",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:59.379",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:59.326",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:59.309",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:59.297",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:57.057",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:57.042",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:57.042",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:57.028",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:54.847",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:54.827",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:54.820",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:54.813",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:52.615",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:52.611",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:52.581",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:52.544",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:50.314",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:50.297",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:50.297",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:50.285",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:48.083",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:48.067",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:48.067",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:48.053",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:45.868",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:45.849",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:45.849",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:45.823",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:43.599",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:43.586",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:43.563",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:43.563",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:41.350",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:41.334",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:41.334",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:41.319",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:39.115",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:39.101",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:39.101",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:39.085",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:36.899",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:36.865",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:36.847",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:36.836",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:34.698",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:34.684",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:34.684",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:34.678",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:34.584",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:32.327",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:32.311",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:32.311",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:32.298",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:30.130",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:30.100",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:30.082",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:30.082",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:30.057",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:27.821",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:27.797",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:27.797",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:27.784",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:25.928",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:25.911",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:25.896",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:45:25.881",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:45:25.873",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:21.666",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:21.653",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:21.653",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:21.633",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:19.441",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:19.424",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:19.414",aditys-agent,"[""T1110""]","[""Credential Access""]",Multiple Windows Logon Failures,10,60204
+"Jan 9, 2026 @ 12:44:19.406",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:19.397",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:17.160",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:17.152",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:44:17.144",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:43:28.181",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:43:16.152",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:38:57.522",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:36:01.618",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 12:28:51.804",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 12:28:51.755",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 9, 2026 @ 12:28:51.707",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 12:28:51.646",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 9, 2026 @ 12:28:48.270",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 12:28:48.201",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 9, 2026 @ 12:17:58.735",aditys-agent,"[""T1529""]","[""Impact""]",System shutdown initiated.,3,67018
+"Jan 9, 2026 @ 11:56:45.588",aditys-agent,"[""T1550.002"",""T1078.002"",""T1021.001""]","[""Defense Evasion"",""Lateral Movement"",""Persistence"",""Privilege Escalation"",""Initial Access""]","Successful Remote Logon Detected - User:\ANONYMOUS LOGON - NTLM authentication, possible pass-the-hash attack - Possible RDP connection. Verify that WINDOWS is allowed to perform RDP connections",6,92657
+"Jan 9, 2026 @ 11:54:36.808",aditys-agent,"[""T1550.002"",""T1078.002""]","[""Defense Evasion"",""Lateral Movement"",""Persistence"",""Privilege Escalation"",""Initial Access""]","Successful Remote Logon Detected - User:\ANONYMOUS LOGON - NTLM authentication, possible pass-the-hash attack.",6,92652
+"Jan 9, 2026 @ 11:54:36.797",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:54:13.676",aditys-agent,"[""T1550.002"",""T1078.002""]","[""Defense Evasion"",""Lateral Movement"",""Persistence"",""Privilege Escalation"",""Initial Access""]","Successful Remote Logon Detected - User:\ANONYMOUS LOGON - NTLM authentication, possible pass-the-hash attack.",6,92652
+"Jan 9, 2026 @ 11:54:13.647",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:51:57.634",aditys-agent,"[""T1550.002"",""T1078.002"",""T1021.001""]","[""Defense Evasion"",""Lateral Movement"",""Persistence"",""Privilege Escalation"",""Initial Access""]","Successful Remote Logon Detected - User:\ANONYMOUS LOGON - NTLM authentication, possible pass-the-hash attack - Possible RDP connection. Verify that WINDOWS is allowed to perform RDP connections",6,92657
+"Jan 9, 2026 @ 11:47:30.518",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:47:30.507",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:47:30.448",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:47:30.434",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 9, 2026 @ 11:47:30.283",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:47:30.236",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 9, 2026 @ 11:47:24.162",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:47:24.161",aditys-agent,"[""T1078""]","[""Defense Evasion"",""Persistence"",""Privilege Escalation"",""Initial Access""]",Windows Workstation Logon Success,3,60118
+"Jan 9, 2026 @ 11:47:24.154",aditys-agent,"[""T1078""]","[""Defense Evasion"",""Persistence"",""Privilege Escalation"",""Initial Access""]",Windows Workstation Logon Success,3,60118
+"Jan 9, 2026 @ 11:41:20.797",aditys-agent,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 9, 2026 @ 11:14:05.665",aditys-agent,"[""T1529""]","[""Impact""]",System shutdown initiated.,3,67018
+"Jan 9, 2026 @ 11:11:56.779",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:11:56.766",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:11:56.670",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:11:56.655",aditys-agent,"[""T1078""]","[""Defense Evasion"",""Persistence"",""Privilege Escalation"",""Initial Access""]",Windows Workstation Logon Success,3,60118
+"Jan 9, 2026 @ 11:11:56.645",aditys-agent,"[""T1078""]","[""Defense Evasion"",""Persistence"",""Privilege Escalation"",""Initial Access""]",Windows Workstation Logon Success,3,60118
+"Jan 9, 2026 @ 11:11:32.884",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:11:09.937",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:11:07.750",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:11:05.849",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:11:03.004",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:08:07.355",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:08:07.320",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 9, 2026 @ 11:08:07.264",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 9, 2026 @ 11:08:07.259",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 9, 2026 @ 11:07:11.674",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:07:09.432",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:07:06.982",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 11:07:04.389",aditys-agent,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 9, 2026 @ 10:42:26.586",aditys-agent,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent stopped.,3,506
+"Jan 9, 2026 @ 10:41:28.361",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:28.153",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:28.068",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:28.064",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:27.968",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:27.954",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:27.953",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:27.953",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:27.891",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:27.840",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:27.315",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:27.307",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:27.132",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:27.094",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:26.291",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:26.288",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:26.215",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:26.000",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:25.984",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:25.974",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:25.974",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:25.967",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:25.886",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:25.711",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:25.691",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:25.089",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:25.082",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:25.082",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:25.062",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:23.739",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:23.402",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:23.395",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:23.337",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:23.312",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:23.290",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:23.282",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:23.063",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:22.175",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:21.947",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:21.939",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:20.669",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:20.656",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:20.552",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:20.359",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:20.352",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:20.336",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:20.327",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:20.247",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:20.235",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:20.217",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:20.200",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:20.187",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:20.179",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:20.153",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:20.143",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:20.123",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:20.112",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:20.105",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:20.077",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:20.063",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:20.049",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:20.040",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:20.029",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:20.021",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.297",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:19.279",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.268",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.260",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:19.232",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.223",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.201",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.189",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:19.170",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.156",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.138",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:19.123",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.109",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.102",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:19.077",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.069",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:19.044",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.029",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.016",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:19.001",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:19.001",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Value Entry Added to the System,5,752
+"Jan 9, 2026 @ 10:41:18.993",aditys-agent,"[""T1112""]","[""Defense Evasion""]",Registry Key Entry Added to the System,5,598
+"Jan 9, 2026 @ 10:41:18.689",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:18.676",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.672",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.666",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.663",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.658",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.564",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.563",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.560",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.555",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.420",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.372",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.365",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.223",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.124",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.118",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:18.117",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:18.110",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:17.858",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:17.843",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:17.834",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:17.824",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Value Integrity Checksum Changed,5,750
+"Jan 9, 2026 @ 10:41:17.813",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:12.081",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 9, 2026 @ 10:41:11.890",aditys-agent,"[""T1565.001"",""T1112""]","[""Impact"",""Defense Evasion""]",Registry Key Integrity Checksum Changed,5,594
+"Jan 8, 2026 @ 16:17:27.923",aditys-agent,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 10:20:36.381",aditys-agent,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 10:20:36.381",aditys-agent,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 08:16:17.205",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 8, 2026 @ 08:16:17.205",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 8, 2026 @ 08:16:17.142",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 8, 2026 @ 08:16:17.142",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 8, 2026 @ 08:16:17.095",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 8, 2026 @ 08:16:17.095",aditys-agent,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 8, 2026 @ 08:16:17.033",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110
+"Jan 8, 2026 @ 08:16:17.033",aditys-agent,"[""T1098""]","[""Persistence""]",User account changed,8,60110

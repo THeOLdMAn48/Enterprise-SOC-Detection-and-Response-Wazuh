@@ -1,0 +1,120 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Jan 8, 2026 @ 17:21:59.414",jamod-win10,Special privileges assigned to new logon.,3,67028
+"Jan 8, 2026 @ 17:21:59.384",jamod-win10,Windows Workstation Logon Success,3,60118
+"Jan 8, 2026 @ 17:21:59.348",jamod-win10,Windows Workstation Logon Success,3,60118
+"Jan 8, 2026 @ 17:21:59.308",jamod-win10,Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.266",jamod-win10,Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.248",jamod-win10,Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.228",jamod-win10,Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.193",jamod-win10,Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.161",jamod-win10,Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:57.557",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:57.435",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:57.364",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:57.276",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:57.166",jamod-win10,License activation (slui.exe) failed.,5,60646
+"Jan 8, 2026 @ 17:21:56.944",jamod-win10,SessionEnv was unavailable to handle a notification event.,5,60775
+"Jan 8, 2026 @ 17:21:56.877",jamod-win10,SessionEnv was unavailable to handle a critical notification event.,7,60776
+"Jan 8, 2026 @ 17:21:56.618",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:56.521",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:56.425",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:56.334",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:51.108",jamod-win10,The VSS service is shutting down due to idle timeout.,5,60702
+"Jan 8, 2026 @ 17:21:51.040",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 17:21:51.025",jamod-win10,License activation (slui.exe) failed.,5,60646
+"Jan 8, 2026 @ 17:21:50.913",jamod-win10,Inconsistent system shutdown detected.,5,60730
+"Jan 8, 2026 @ 17:21:50.681",jamod-win10,Windows System error event,5,61102
+"Jan 8, 2026 @ 17:21:50.661",jamod-win10,Windows System error event,5,61102
+"Jan 8, 2026 @ 17:21:50.638",jamod-win10,Windows System error event,5,61102
+"Jan 8, 2026 @ 17:21:50.535",jamod-win10,New Windows Service Created,5,61138
+"Jan 8, 2026 @ 17:21:50.482",jamod-win10,New Windows Service Created,5,61138
+"Jan 8, 2026 @ 17:21:50.260",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 17:21:50.102",jamod-win10,Wazuh agent started.,3,503
+"Jan 8, 2026 @ 10:20:36.381",jamod-win10,Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 10:20:36.381",jamod-win10,Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 09:49:22.615",jamod-win10,Name resolution for the name 4.tlu.dl.delivery.mp.microsoft.com timed out,5,61109
+"Jan 8, 2026 @ 09:49:22.615",jamod-win10,Name resolution for the name 4.tlu.dl.delivery.mp.microsoft.com timed out,5,61109
+"Jan 8, 2026 @ 09:43:02.500",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 09:43:02.500",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 09:39:10.157",jamod-win10,Application installed Product: Microsoft Update Health Tools -- Installation completed successfully..,3,60612
+"Jan 8, 2026 @ 09:39:10.157",jamod-win10,"Application installed Microsoft Update Health Tools, 3.74.0.0, 0, 0, Microsoft Corporation.",3,60612
+"Jan 8, 2026 @ 09:39:10.157",jamod-win10,Application installed Product: Microsoft Update Health Tools -- Installation completed successfully..,3,60612
+"Jan 8, 2026 @ 09:39:10.157",jamod-win10,"Application installed Microsoft Update Health Tools, 3.74.0.0, 0, 0, Microsoft Corporation.",3,60612
+"Jan 8, 2026 @ 09:39:10.129",jamod-win10,New Windows Service Created,5,61138
+"Jan 8, 2026 @ 09:39:10.129",jamod-win10,New Windows Service Created,5,61138
+"Jan 8, 2026 @ 09:39:08.871",jamod-win10,Windows installer began an installation process.,3,60610
+"Jan 8, 2026 @ 09:39:08.871",jamod-win10,Windows installer began an installation process.,3,60610
+"Jan 8, 2026 @ 09:36:14.140",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 09:36:14.140",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 09:34:33.989",jamod-win10,Summary event of the report's signatures.,4,60608
+"Jan 8, 2026 @ 09:34:33.989",jamod-win10,Summary event of the report's signatures.,4,60608
+"Jan 8, 2026 @ 09:34:32.677",jamod-win10,Summary event of the report's signatures.,4,60608
+"Jan 8, 2026 @ 09:34:32.677",jamod-win10,Summary event of the report's signatures.,4,60608
+"Jan 8, 2026 @ 09:34:21.486",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 09:34:21.486",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 09:33:52.819",jamod-win10,"Application installed Update for Windows 10 for x64-based Systems (KB5001716), 8.94.0.0, 0, 0, Microsoft Corporation.",3,60612
+"Jan 8, 2026 @ 09:33:52.819",jamod-win10,"Application installed Update for Windows 10 for x64-based Systems (KB5001716), 8.94.0.0, 0, 0, Microsoft Corporation.",3,60612
+"Jan 8, 2026 @ 09:33:52.800",jamod-win10,Application installed Product: Update for Windows 10 for x64-based Systems (KB5001716) -- Installation completed successfully..,3,60612
+"Jan 8, 2026 @ 09:33:52.800",jamod-win10,Application installed Product: Update for Windows 10 for x64-based Systems (KB5001716) -- Installation completed successfully..,3,60612
+"Jan 8, 2026 @ 09:33:52.110",jamod-win10,Windows installer began an installation process.,3,60610
+"Jan 8, 2026 @ 09:33:52.110",jamod-win10,Windows installer began an installation process.,3,60610
+"Jan 8, 2026 @ 09:27:52.700",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 09:27:52.700",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 09:27:31.654",jamod-win10,Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 09:27:31.654",jamod-win10,Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 09:07:12.297",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 09:07:12.297",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:56:19.592",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:56:19.592",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:55:33.835",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:55:33.835",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:52:54.277",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:52:54.277",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:52:33.184",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 08:52:33.184",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 08:46:49.732",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:46:49.732",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:34:45.924",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:34:45.924",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:30:41.758",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:30:41.758",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:27:54.572",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 08:27:54.572",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 08:26:36.627",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:26:36.627",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 08:25:51.537",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 08:25:51.537",jamod-win10,Service startup type was changed,3,61104
+"Jan 8, 2026 @ 07:48:14.088",jamod-win10,Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 07:48:14.088",jamod-win10,Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 07:25:11.443",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:25:11.443",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:22:46.066",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:22:46.066",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:19:51.131",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:19:51.131",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:12:00.791",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:12:00.791",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:05:51.686",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:05:51.686",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:02:32.661",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:02:32.661",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 07:01:07.254",jamod-win10,Summary event of the report's signatures.,4,60608
+"Jan 8, 2026 @ 07:01:07.254",jamod-win10,Summary event of the report's signatures.,4,60608
+"Jan 8, 2026 @ 06:59:01.963",jamod-win10,Windows Search Service indexed data for user successfully removed in response to user profile deletion.,3,60673
+"Jan 8, 2026 @ 06:59:01.963",jamod-win10,Windows Search Service indexed data for user successfully removed in response to user profile deletion.,3,60673
+"Jan 8, 2026 @ 06:59:01.946",jamod-win10,Windows Search Service indexed data for user successfully removed in response to user profile deletion.,3,60673
+"Jan 8, 2026 @ 06:59:01.946",jamod-win10,Windows Search Service indexed data for user successfully removed in response to user profile deletion.,3,60673
+"Jan 8, 2026 @ 06:59:00.837",jamod-win10,User account disabled or deleted,8,60111
+"Jan 8, 2026 @ 06:59:00.837",jamod-win10,User account disabled or deleted,8,60111
+"Jan 8, 2026 @ 06:59:00.805",jamod-win10,Users Group Changed,5,60170
+"Jan 8, 2026 @ 06:59:00.805",jamod-win10,Domain Users Group Changed,5,60160
+"Jan 8, 2026 @ 06:59:00.805",jamod-win10,Domain Users Group Changed,5,60160
+"Jan 8, 2026 @ 06:59:00.805",jamod-win10,Users Group Changed,5,60170
+"Jan 8, 2026 @ 06:58:32.967",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 06:58:32.967",jamod-win10,Software protection service scheduled successfully.,3,60642
+"Jan 8, 2026 @ 06:58:17.083",jamod-win10,Wazuh agent started.,3,503
+"Jan 8, 2026 @ 06:58:17.083",jamod-win10,Wazuh agent started.,3,503
+"Jan 8, 2026 @ 06:58:16.365",jamod-win10,Wazuh agent stopped.,3,506
+"Jan 8, 2026 @ 06:58:16.365",jamod-win10,Wazuh agent stopped.,3,506
+"Jan 8, 2026 @ 06:58:14.087",jamod-win10,New wazuh agent connected.,3,501
+"Jan 8, 2026 @ 06:58:14.087",jamod-win10,New wazuh agent connected.,3,501

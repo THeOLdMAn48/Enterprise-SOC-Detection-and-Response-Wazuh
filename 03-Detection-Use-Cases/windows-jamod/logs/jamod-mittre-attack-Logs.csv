@@ -1,0 +1,29 @@
+timestamp,agent.name,rule.mitre.id,rule.mitre.tactic,rule.description,rule.level,rule.id
+"Jan 8, 2026 @ 17:21:59.414",jamod-win10,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Special privileges assigned to new logon.,3,67028
+"Jan 8, 2026 @ 17:21:59.384",jamod-win10,"[""T1078""]","[""Defense Evasion"",""Persistence"",""Privilege Escalation"",""Initial Access""]",Windows Workstation Logon Success,3,60118
+"Jan 8, 2026 @ 17:21:59.348",jamod-win10,"[""T1078""]","[""Defense Evasion"",""Persistence"",""Privilege Escalation"",""Initial Access""]",Windows Workstation Logon Success,3,60118
+"Jan 8, 2026 @ 17:21:59.308",jamod-win10,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.266",jamod-win10,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.248",jamod-win10,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.228",jamod-win10,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.193",jamod-win10,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:59.161",jamod-win10,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 17:21:50.913",jamod-win10,"[""T1529"",""T1047""]","[""Impact"",""Execution""]",Inconsistent system shutdown detected.,5,60730
+"Jan 8, 2026 @ 17:21:50.535",jamod-win10,"[""T1543.003""]","[""Persistence"",""Privilege Escalation""]",New Windows Service Created,5,61138
+"Jan 8, 2026 @ 17:21:50.482",jamod-win10,"[""T1543.003""]","[""Persistence"",""Privilege Escalation""]",New Windows Service Created,5,61138
+"Jan 8, 2026 @ 10:20:36.381",jamod-win10,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 10:20:36.381",jamod-win10,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 09:39:10.129",jamod-win10,"[""T1543.003""]","[""Persistence"",""Privilege Escalation""]",New Windows Service Created,5,61138
+"Jan 8, 2026 @ 09:39:10.129",jamod-win10,"[""T1543.003""]","[""Persistence"",""Privilege Escalation""]",New Windows Service Created,5,61138
+"Jan 8, 2026 @ 09:27:31.654",jamod-win10,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 09:27:31.654",jamod-win10,"[""T1531""]","[""Impact""]",Logon Failure - Unknown user or bad password,5,60122
+"Jan 8, 2026 @ 07:48:14.088",jamod-win10,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 07:48:14.088",jamod-win10,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent disconnected.,3,504
+"Jan 8, 2026 @ 06:59:00.837",jamod-win10,"[""T1098"",""T1531""]","[""Persistence"",""Impact""]",User account disabled or deleted,8,60111
+"Jan 8, 2026 @ 06:59:00.837",jamod-win10,"[""T1098"",""T1531""]","[""Persistence"",""Impact""]",User account disabled or deleted,8,60111
+"Jan 8, 2026 @ 06:59:00.805",jamod-win10,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Users Group Changed,5,60170
+"Jan 8, 2026 @ 06:59:00.805",jamod-win10,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Domain Users Group Changed,5,60160
+"Jan 8, 2026 @ 06:59:00.805",jamod-win10,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Domain Users Group Changed,5,60160
+"Jan 8, 2026 @ 06:59:00.805",jamod-win10,"[""T1484""]","[""Defense Evasion"",""Privilege Escalation""]",Users Group Changed,5,60170
+"Jan 8, 2026 @ 06:58:16.365",jamod-win10,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent stopped.,3,506
+"Jan 8, 2026 @ 06:58:16.365",jamod-win10,"[""T1562.001""]","[""Defense Evasion""]",Wazuh agent stopped.,3,506
