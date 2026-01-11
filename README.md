@@ -67,8 +67,7 @@ This project shows:
 
 ---
 
-## 🧱 SOC Lab Architecture
-
+## 🧱 SOC Lab Architecture & Workflow 
 <p align="center">
   <img src="01-Architecture/soc-architecture.png" alt="Wazuh SOC Architecture" width="85%">
 </p>
@@ -80,20 +79,14 @@ This project shows:
 - **Kali Linux** – Attacker simulation
 - **Slack Integration** – Real-time alerting
 
----
-
-## ⚙️ SOC Workflow Implemented
-
-<p align="center">
-  <img src="05-Dashboards/screenshots/soc-workflow.png" width="80%">
-</p>
-
+### Working Flow
 1. Event generation on endpoint  
 2. Log collection via Wazuh agent  
 3. Correlation & rule evaluation  
 4. Alert generation  
 5. SOC triage & investigation  
 6. Evidence documentation  
+
 
 ---
 
@@ -107,7 +100,7 @@ This project shows:
 - MITRE: **T1110 – Brute Force**
 
 <p align="center">
-  <img src="03-Detection-Use-Cases/ubuntu-devang/ssh-bruteforce/screenshots/ssh-alert.png" width="80%">
+  <img src="03-Detection-Use-Cases/ubuntu-devang/screenshots/Screenshot (41).png" width="80%">
 </p>
 
 ---
@@ -118,7 +111,7 @@ This project shows:
 - MITRE: **T1046, T1595**
 
 <p align="center">
-  <img src="03-Detection-Use-Cases/ubuntu-devang/nmap-scan-detection/screenshots/nmap-dashboard.png" width="80%">
+  <img src="03-Detection-Use-Cases/ubuntu-devang/screenshots/Screenshot (1229).png" width="80%">
 </p>
 
 ---
