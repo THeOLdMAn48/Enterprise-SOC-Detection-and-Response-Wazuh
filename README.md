@@ -101,6 +101,7 @@ This project shows:
 
 <p align="center">
   <img src="03-Detection-Use-Cases/ubuntu-devang/screenshots/Screenshot (41).png" width="80%">
+  <img src="03-Detection-Use-Cases/ubuntu-devang/screenshots/Screenshot (38).png" width="80%">
 </p>
 
 ---
@@ -124,7 +125,7 @@ This project shows:
 - MITRE: **T1110**
 
 <p align="center">
-  <img src="03-Detection-Use-Cases/windows-aditya/failed-logins/screenshots/failed-login.png" width="80%">
+  <img src="03-Detection-Use-Cases/windows-aditya/screenshots/Screenshot (50).png" width="80%">
 </p>
 
 ---
