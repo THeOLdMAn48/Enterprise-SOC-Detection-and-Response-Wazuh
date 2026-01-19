@@ -142,7 +142,7 @@ This project shows:
 - MITRE: **T1110, T1021.001**
 
 <p align="center">
-  <img src="03-Detection-Use-Cases/windows-aditya/rdp-bruteforce/screenshots/rdp-alert.png" width="80%">
+  <img src="03-Detection-Use-Cases/windows-aditya/screenshots/Screenshot (52).png" width="80%">
 </p>
 
 ---
@@ -171,7 +171,8 @@ Every detection includes:
 ## 📊 Dashboards & Threat Visibility
 
 <p align="center">
-  <img src="05-Dashboards/screenshots/mitre-dashboard.png" width="80%">
+  <img src="03-Detection-Use-Cases/windows-jamod/screenshots/Screenshot (57).png" width="80%">
+  <img src="03-Detection-Use-Cases/windows-jamod/screenshots/Screenshot (58).png" width="80%">
 </p>
 
 Dashboards used:
