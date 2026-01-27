@@ -1,8 +1,7 @@
 # 🛡️ Enterprise SOC Detection & Response Lab using Wazuh
 
-<p align="center">
-  <img src="07-Media/Gemini_Generated_Image_as4ij3as4ij3as4i.png" alt="SOC Architecture" width="60%">
-</p>
+## Watch The Video By Clicking Image
+[![Watch the video](https://img.youtube.com/vi/-UpY50KhLiY/maxresdefault.jpg)](https://www.youtube.com/watch?v=-UpY50KhLiY)
 
 ## 🔍 Project Overview
 
